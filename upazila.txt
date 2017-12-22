@@ -1,0 +1,641 @@
+barguna .
+    1. Amtali Upazila. .
+    2. Bamna Upazila. .
+    3. Barguna Sadar Upazila. .
+    4. Betagi Upazila. .
+    5. Patharghata Upazila. .
+    6. Taltoli Upazila. . #
+
+barisal .
+    1. Agailjhara Upazila. .
+    2. Babuganj Upazila. .
+    3. Bakerganj Upazila. .
+    4. Banaripara Upazila. .
+    5. Gaurnadi Upazila. .
+    6. Hizla Upazila. .
+    7. Barisal Sadar Upazila. .
+    8. Mehendiganj Upazila. .
+    9. Muladi Upazila. .
+   10. Wazirpur Upazila. . #
+
+
+bhola .
+    1. Bhola Sadar Upazila. .
+    2. Burhanuddin Upazila. .
+    3. Char Fasson Upazila. .
+    4. Daulatkhan Upazila. .
+    5. Lalmohan Upazila. .
+    6. Manpura Upazila. .
+    7. Tazumuddin Upazila. . #
+
+jhalokati .
+    1. Jhalokati Sadar Upazila. .
+    2. Kathalia Upazila. .
+    3. Nalchity Upazila. .
+    4. Rajapur Upazila. . #
+
+patuakhali .
+    1. Bauphal Upazila. .
+    2. Dashmina Upazila. .
+    3. Galachipa Upazila. .
+    4. Kalapara Upazila. .
+    5. Mirzaganj Upazila. .
+    6. Patuakhali Sadar Upazila. .
+    7. Rangabali Upazila. .
+    8. Dumki Upazila. . #
+
+pirojpur .
+    1. Bhandaria Upazila. .
+    2. Kawkhali Upazila. .
+    3. Mathbaria Upazila. .
+    4. Nazirpur Upazila. .
+    5. Pirojpur Sadar Upazila. .
+    6. Nesarabad (Swarupkati) Upazila. .
+    7. Zianagor Upazila. . #
+
+bandarban .
+    1. Ali Kadam Upazila. .
+    2. Bandarban Sadar Upazila. .
+    3. Lama Upazila. .
+    4. Naikhongchhari Upazila. .
+    5. Rowangchhari Upazila. .
+    6. Ruma Upazila. .
+    7. Thanchi Upazila. . #
+
+
+brahmanbaria .
+    1. Akhaura Upazila. .
+    2. Bancharampur Upazila. .
+    3. Brahmanbaria Sadar Upazila. .
+    4. Kasba Upazila. .
+    5. Nabinagar Upazila. .
+    6. Nasirnagar Upazila. .
+    7. Sarail Upazila. .
+    8. Ashuganj Upazila. .
+    9. Bijoynagar Upazila. . #
+
+chandpur .
+    1. Chandpur Sadar Upazila. .
+    2. Faridganj Upazila. .
+    3. Haimchar Upazila. .
+    4. Haziganj Upazila. .
+    5. Kachua Upazila. .
+    6. Matlab Dakshin Upazila. .
+    7. Matlab Uttar Upazila. .
+    8. Shahrasti Upazila. . #
+
+chittagong .
+   1. Anwara Upazila. .
+   2. Banshkhali Upazila. .
+   3. Boalkhali Upazila. .
+   4. Chandanaish Upazila. .
+   5. Fatikchhari Upazila. .
+   6. Hathazari Upazila. .
+   7. Lohagara Upazila. .
+   8. Mirsharai Upazila. .
+   9. Patiya Upazila. .
+  10. Rangunia Upazila. .
+  11. Raozan Upazila. .
+  12. Sandwip Upazila. .
+  13. Satkania Upazila. .
+  14. Sitakunda Upazila. .
+  15. Bandar Thana. .
+  16. Chandgaon Thana. .
+  17. Double Mooring Thana. .
+  18. Kotwali Thana. .
+  19. Pahartali Thana. .
+  20. Panchlaish Than. . #
+
+comilla .
+    1. Barura Upazila. .
+    2. Brahmanpara Upazila. .
+    3. Burichang Upazila. .
+    4. Chandina Upazila. .
+    5. Chauddagram Upazila. .
+    6. Daudkandi Upazila. .
+    7. Debidwar Upazila. .
+    8. Homna Upazila. .
+    9. Laksam Upazila. .
+   10. Muradnagar Upazila. .
+   11. Nangalkot Upazila. .
+   12. Comilla Adarsha Sadar Upazila. .
+   13. Meghna Upazila. .
+   14. Titas Upazila. .
+   15. Monohargonj Upazila. .
+   16. Comilla Sadar Dakshin Upazila. . #
+
+
+cox'sbazar .
+    1. Chakaria Upazila. .
+    2. Cox's Bazar Sadar Upazila. .
+    3. Kutubdia Upazila. .
+    4. Maheshkhali Upazila. .
+    5. Ramu Upazila. .
+    6. Teknaf Upazila. .
+    7. Ukhia Upazila. .
+    8. Pekua Upazila. . #
+
+feni .
+    1. Chhagalnaiya Upazila. .
+    2. Daganbhuiyan Upazila. .
+    3. Feni Sadar Upazila. .
+    4. Parshuram Upazila. .
+    5. Sonagazi Upazila. .
+    6. Fulgazi Upazila. . #
+
+khagrachhari .
+    1. Dighinala Upazila. .
+    2. Khagrachhari Upazila. .
+    3. Lakshmichhari Upazila. .
+    4. Mahalchhari Upazila. .
+    5. Manikchhari Upazila. .
+    6. Matiranga Upazila. .
+    7. Panchhari Upazila. .
+    8. Ramgarh Upazila. . #
+
+lakshmipur .
+    1. Lakshmipur Sadar Upazila. .
+    2. Raipur Upazila. .
+    3. Ramganj Upazila. .
+    4. Ramgati Upazila. .
+    5. Kamalnagar Upazila. . #
+
+noakhali .
+    1. Begumganj Upazila. .
+    2. Noakhali Sadar Upazila. .
+    3. Chatkhil Upazila. .
+    4. Companiganj Upazila. .
+    5. Hatiya Upazila. .
+    6. Senbagh Upazila. .
+    7. Sonaimuri Upazila. .
+    8. Subarnachar Upazila. .
+    9. Kabirhat Upazila. . #
+
+rangamati .
+    1. Bagaichhari Upazila. .
+    2. Barkal Upazila. .
+    3. Kawkhali (Betbunia) Upazila. .
+    4. Belaichhari Upazila. .
+    5.  Kaptai Upazila. .
+    6. Juraichhari Upazila. .
+    7. Langadu Upazila. .
+    8. Naniyachar Upazila. .
+    9. Rajasthali Upazila. .
+   10. Rangamati Sadar Upazila. . #
+
+dhaka .
+    1. Dhamrai Upazila. .
+    2. Dohar Upazila. .
+    3. Keraniganj Upazila. .
+    4. Nawabganj Upazila. .
+    5. Savar Upazila. . #
+
+faridpur .
+    1. Alfadanga Upazila. .
+    2. Bhanga Upazila. .
+    3. Boalmari Upazila. .
+    4. Charbhadrasan Upazila. .
+    5. Faridpur Sadar Upazila. .
+    6. Madhukhali Upazila. .
+    7. Nagarkanda Upazila. .
+    8. Sadarpur Upazila. .
+    9. Saltha Upazila. . #
+
+gazipur .
+    1. Gazipur Sadar Upazila. .
+    2. Kaliakair Upazila. .
+    3. Kaliganj Upazila. .
+    4. Kapasia Upazila. .
+    5. Sreepur Upazila. . #
+
+gopalganj .
+    1. Gopalganj Sadar Upazila. .
+    2. Kashiani Upazila. .
+    3. Kotalipara Upazila. .
+    4. Muksudpur Upazila. .
+    5. Tungipara Upazila. . #
+
+jamalpur .
+    1. Baksiganj Upazila. .
+    2. Dewanganj Upazila. .
+    3. Islampur Upazila. .
+    4. Jamalpur Sadar Upazila. .
+    5. Madarganj Upazila. .
+    6. Melandaha Upazila. .
+    7. Sarishabari Upazila. . #
+
+kishoreganj .
+    1. Astagram Upazila. .
+    2. Bajitpur Upazila. .
+    3. Bhairab Upazila. .
+    4. Hossainpur Upazila. .
+    5. Itna Upazila. .
+    6. Karimganj Upazila. .
+    7. Katiadi Upazila. .
+    8. Kishoreganj Sadar Upazila. .
+    9. Kuliarchar Upazila. .
+   10. Mithamain Upazila. .
+   11. Nikli Upazila. .
+   12. Pakundia Upazila. .
+   13. Tarail Upazila. . #
+
+madaripur .
+    1. Rajoir Upazila. .
+    2. Madaripur Sadar Upazila. .
+    3. Kalkini Upazila. .
+    4. Shibchar Upazila. . #
+
+manikganj .
+    1. Daulatpur Upazila. .
+    2. Ghior Upazila. .
+    3. Harirampur Upazila. .
+    4. Manikgonj Sadar Upazila. .
+    5. Saturia Upazila. .
+    6. Shivalaya Upazila. .
+    7. Singair Upazila. . #
+
+munshiganj .
+    1. Gazaria Upazila. .
+    2. Lohajang Upazila. .
+    3. Munshiganj Sadar Upazila. .
+    4. Sirajdikhan Upazila. .
+    5. Sreenagar Upazila. .
+    6. Tongibari Upazila. . #
+
+
+mymensingh .
+    1. Bhaluka Upazila. .
+    2. Dhobaura Upazila. .
+    3. Fulbaria Upazila. .
+    4. Gaffargaon Upazila. .
+    5. Gauripur Upazila. .
+    6. Haluaghat Upazila. .
+    7. Ishwarganj Upazila. .
+    8. Mymensingh Sadar Upazila. .
+    9. Muktagachha Upazila. .
+   10. Nandail Upazila. .
+   11. Phulpur Upazila. .
+   12. Trishal Upazila. .
+   13. Tara Khanda Upazila. . #
+
+narayanganj .
+    1. Araihazar Upazila. .
+    2. Bandar Upazila. .
+    3. Narayanganj Sadar Upazila. .
+    4. Rupganj Upazila. .
+    5. Sonargaon Upazila. . #
+
+narsingdi .
+    1. Narsingdi Sadar Upazila. .
+    2. Belabo Upazila. .
+    3. Monohardi Upazila. .
+    4. Palash Upazila. .
+    5. Raipura Upazila. .
+    6. Shibpur Upazila. . #
+   
+netrakona .
+    1. Atpara Upazila. .
+    2. Barhatta Upazila. .
+    3. Durgapur Upazila. .
+    4. Khaliajuri Upazila. .
+    5. Kalmakanda Upazila. .
+    6. Kendua Upazila. .
+    7. Madan Upazila. .
+    8. Mohanganj Upazila. .
+    9. Netrokona Sadar Upazila. .
+   10. Purbadhala Upazila. . #
+
+
+rajbari .
+    1. Baliakandi Upazila. .
+    2. Goalandaghat Upazila. .
+    3. Pangsha Upazila. .
+    4. Rajbari Sadar Upazila. .
+    5. Kalukhali Upazila. . #
+
+shariatpur .
+    1. Bhedarganj Upazila. .
+    2. Damudya Upazila. .
+    3. Gosairhat Upazila. .
+    4. Naria Upazila. .
+    5. Shariatpur Sadar Upazila. .
+    6. Zajira Upazila. .
+    7. Shakhipur Upazila. . #
+
+sherpur .
+    1. Jhenaigati Upazila. .
+    2. Nakla Upazila. .
+    3. Nalitabari Upazila. .
+    4. Sherpur Sadar Upazila. .
+    5. Sreebardi Upazila. . #
+
+tangail .
+    1. Gopalpur Upazila. .
+    2. Basail Upazila. .
+    3. Bhuapur Upazila. .
+    4. Delduar Upazila. .
+    5. Ghatail Upazila. .
+    6. Kalihati Upazila. .
+    7. Madhupur Upazila. .
+    8. Mirzapur Upazila. .
+    9. Nagarpur Upazila. .
+   10. Sakhipur Upazila. .
+   11. Dhanbari Upazila. .
+   12. Tangail Sadar Upazila. . #
+
+bagerhat .
+    1. Bagerhat Sadar Upazila. .
+    2. Chitalmari Upazila. .
+    3. Fakirhat Upazila. .
+    4. Kachua Upazila. .
+    5. Mollahat Upazila. .
+    6. Mongla Upazila. .
+    7. Morrelganj Upazila. .
+    8. Rampal Upazila. .
+    9. Sarankhola Upazila. . #
+
+chuadanga .
+    1. Alamdanga Upazila. .
+    2. Chuadanga Sadar Upazila. .
+    3. Damurhuda Upazila. .
+    4. Jibannagar Upazila. . #
+
+jessore .
+    1. Abhaynagar Upazila. .
+    2. Bagherpara Upazila. .
+    3. Chaugachha Upazila. .
+    4. Jhikargachha Upazila. .
+    5. Keshabpur Upazila. .
+    6. Jessore Sadar Upazila. .
+    7. Manirampur Upazila. .
+    8. Sharsha Upazila. . #
+
+jhenaidah .
+    1. Harinakunda Upazila. .
+    2. Jhenaidah Sadar Upazila. .
+    3. Kaliganj Upazila. .
+    4. Kotchandpur Upazila. .
+    5. Maheshpur Upazila. .
+    6. Shailkupa Upazila. . #
+
+khulna .
+    1. Batiaghata Upazila. .
+    2. Dacope Upazila. .
+    3. Dumuria Upazila. .
+    4. Dighalia Upazila. .
+    5. Koyra Upazila. .
+    6. Paikgachha Upazila. .
+    7. Phultala Upazila. .
+    8. Rupsha Upazila. .
+    9. Terokhada Upazila. .
+   10. Daulatpur Thana. .
+   11. Khalishpur Thana. .
+   12. Khan Jahan Ali Thana. .
+   13. Kotwali Thana. .
+   14. Sonadanga Thana. .
+   15. Harintana Thana. . #
+
+kushtia .
+    1. Bheramara Upazila. .
+    2. Daulatpur Upazila. .
+    3. Khoksa Upazila. .
+    4. Kumarkhali Upazila. .
+    5. Kushtia Sadar Upazila. .
+    6. Mirpur Upazila. .
+    7. Shekhpara Upazila. . #
+
+magura .
+    1. Magura Sadar Upazila. .
+    2. Mohammadpur Upazila. .
+    3. Shalikha Upazila. .
+    4. Sreepur Upazila. . #
+
+meherpur .
+    1. Gangni Upazila. .
+    2. Meherpur Sadar Upazila. .
+    3. Mujibnagar Upazila. . #
+
+narail .
+    1. Kalia Upazila. .
+    2. Lohagara Upazila. .
+    3. Narail Sadar Upazila. .
+    4. Naragati Thana. . #
+
+satkhira .
+    1. Assasuni Upazila. .
+    2. Debhata Upazila. .
+    3. Kalaroa Upazila. .
+    4. Kaliganj Upazila. .
+    5. Satkhira Sadar Upazila. .
+    6. Shyamnagar Upazila. .
+    7. Tala Upazila. . #
+
+bogra .
+   1. Adamdighi Upazila. .
+   2. Bogra Sadar Upazila. .
+   3. Dhunat Upazila. .
+   4. Dhupchanchia Upazila. .
+   5. Gabtali Upazila. .
+   6. Kahaloo Upazila. .
+   7. Nandigram Upazila. .
+   8. Sariakandi Upazila. .
+   9. Shajahanpur Upazila. .
+  10. Sherpur Upazila. .
+  11. Shibganj Upazila. .
+  12. Sonatola Upazila. . #
+
+joypurhat .
+   1. Akkelpur Upazila. .
+   2. Joypurhat Sadar Upazila. .
+   3. Kalai Upazila. .
+   4. Khetlal Upazila. .
+   5. Panchbibi Upazila. . #
+
+naogaon .
+   1. Atrai Upazila. .
+   2. Badalgachhi Upazila. .
+   3. Manda Upazila. .
+   4. Dhamoirhat Upazila. .
+   5. Mohadevpur Upazila. .
+   6. Naogaon Sadar Upazila. .
+   7. Niamatpur Upazila. .
+   8. Patnitala Upazila. .
+   9. Porsha Upazila. .
+  10. Raninagar Upazila. .
+  11. Sapahar Upazila. . #
+
+natore .
+    1. Bagatipara Upazila. .
+    2. Baraigram Upazila. .
+    3. Gurudaspur Upazila. .
+    4. Lalpur Upazila. .
+    5. Natore Sadar Upazila. .
+    6. Singra Upazila. .
+    7. Naldanga Upazila. . #
+
+chapainawabganj .
+    1. Bholahat Upazila. .
+    2. Gomastapur Upazila. .
+    3. Nachole Upazila. .
+    4. Nawabganj Sadar Upazila. .
+    5. Shibganj Upazila. . #
+
+pabna .
+
+
+    1. Ataikula Upazila. .
+    2. Atgharia Upazila. .
+    3. Bera Upazila. .
+    4. Bhangura Upazila. .
+    5. Chatmohar Upazila. .
+    6. Faridpur Upazila. .
+    7. Ishwardi Upazila. .
+    8. Pabna Sadar Upazila. .
+    9. Santhia Upazila. .
+   10. Sujanagar Upazila. . #
+
+rajshahi .
+    1. Bagha Upazila. .
+    2. Bagmara Upazila. .
+    3. Charghat Upazila. .
+    4. Durgapur Upazila. .
+    5. Godagari Upazila. .
+    6. Mohanpur Upazila. .
+    7. Paba Upazila. .
+    8. Puthia Upazila. .
+    9. Tanore Upazila. .
+   10. Boalia Thana. .
+   11. Matihar Thana. .
+   12. Rajpara Thana. .
+   13. Shah Mokdum Thana. . #
+
+sirajganj .
+    1. Belkuchi Upazila. .
+    2. Chauhali Upazila. .
+    3. Kamarkhanda Upazila. .
+    4. Kazipur Upazila. .
+    5. Raiganj Upazila. .
+    6. Shahjadpur Upazila. .
+    7. Sirajganj Sadar Upazila. .
+    8. Tarash Upazila. .
+    9. Ullahpara Upazila. . #
+
+dinajpur .
+    1. Birampur Upazila. .
+    2. Birganj Upazila. .
+    3. Biral Upazila. .
+    4. Bochaganj Upazila. .
+    5. Chirirbandar Upazila. .
+    6. Phulbari Upazila. .
+    7. Ghoraghat Upazila. .
+    8. Hakimpur Upazila. .
+    9. Kaharole Upazila. .
+   10. Khansama Upazila. .
+   11. Dinajpur Sadar Upazila. .
+   12. Nawabganj Upazila. .
+   13. Parbatipur Upazila. . #
+
+gaibandha .
+    1. Phulchhari Upazila. .
+    2. Gaibandha Sadar Upazila. .
+    3. Gobindaganj Upazila. .
+    4. Palashbari Upazila. .
+    5. Sadullapur Upazila. .
+    6. Sughatta Upazila. .
+    7. Sundarganj Upazila. . #
+
+kurigram .
+    1. Bhurungamari Upazila. .
+    2. Char Rajibpur Upazila. .
+    3. Chilmari Upazila. .
+    4. Phulbari Upazila. .
+    5. Kurigram Sadar Upazila. .
+    6. Nageshwari Upazila. .
+    7. Rajarhat Upazila. .
+    8. Raomari Upazila. .
+    9. Ulipur Upazila. . #
+
+lalmonirhat .
+    1. Aditmari Upazila. .
+    2. Hatibandha Upazila. .
+    3. Kaliganj Upazila. .
+    4. Lalmonirhat Sadar Upazila. .
+    5. Patgram Upazila. . #
+
+nilphamari .
+    1. Dimla Upazila. .
+    2. Domar Upazila. .
+    3. Jaldhaka Upazila. .
+    4. Kishoreganj Upazila. .
+    5. Nilphamari Sadar Upazila. .
+    6. Saidpur Upazila. . #
+
+panchagarh .
+    1. Atwari Upazila. .
+    2. Boda Upazila. .
+    3. Debiganj Upazila. .
+    4. Panchagarh Sadar Upazila. .
+    5. Tetulia Upazila. . #
+
+rangpur .
+    1. Badarganj Upazila. .
+    2. Gangachhara Upazila. .
+    3. Kaunia Upazila. .
+    4. Rangpur Sadar Upazila. .
+    5. Mithapukur Upazila. .
+    6. Pirgachha Upazila. .
+    7. Pirganj Upazila. .
+    8. Taraganj Upazila. . #
+
+thakurgaon .
+    1. Baliadangi Upazila. .
+    2. Haripur Upazila. .
+    3. Pirganj Upazila. .
+    4. Ranisankail Upazila. .
+    5. Thakurgaon Sadar Upazila. . #
+
+habiganj .
+    1. Ajmiriganj Upazila. .
+    2. Bahubal Upazila. .
+    3. Baniyachong Upazila. .
+    4. Chunarughat Upazila. .
+    5. Habiganj Sadar Upazila. .
+    6. Lakhai Upazila. .
+    7. Madhabpur Upazila. .
+    8. Nabiganj Upazila. . #
+
+moulvibazar .
+    1. Barlekha Upazila. .
+    2. Kamalganj Upazila. .
+    3. Kulaura Upazila. .
+    4. Moulvibazar Sadar Upazila. .
+    5. Rajnagar Upazila. .
+    6. Sreemangal Upazila. .
+    7. Juri Upazila. . #
+
+sunamganj .
+    1. Bishwamvarpur Upazila. .
+    2. Chhatak Upazila. .
+    3. Derai Upazila. .
+    4. Dharampasha Upazila. .
+    5. Dowarabazar Upazila. .
+    6. Jagannathpur Upazila. .
+    7. Jamalganj Upazila. .
+    8. Sullah Upazila. .
+    9. Sunamganj Sadar Upazila. .
+   10. Tahirpur Upazila. .
+   11. South Sunamganj Upazila. . #
+
+sylhet .
+    1. Balaganj Upazila. .
+    2. Beanibazar Upazila. .
+    3. Bishwanath Upazila. .
+    4. Companigonj Upazila. .
+    5. Fenchuganj Upazila. .
+    6. Golapganj Upazila. .
+    7. Gowainghat Upazila. .
+    8. Jaintiapur Upazila. .
+    9. Kanaighat Upazila. .
+   10. Sylhet Sadar Upazila. .
+   11. Zakiganj Upazila. .
+   12. South Shurma Upazila. . #

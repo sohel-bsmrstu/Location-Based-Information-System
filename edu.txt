@@ -1,0 +1,419 @@
+barguna .
+Barguna is a district in southwestern Bangladesh. 
+ It is a part of the Barisal . Division. 
+Rate of education of Barguna district is:- .
+Total 	 69.14% . #
+
+barisal .
+Barisal is a district in south-central Bangladesh,
+ formerly called . Bakerganj district, established in 1797. Its headquarters are in the . city of Barisal,
+ which is also the headquarters of Barisal Division. . 
+Rate of education of Barisal district is:- .
+Total  	56.80% . #
+
+bhola .
+    Bhola district is an administrative district (zila) in south-western Bangladesh, which includes Bhola Island,
+ the largest island of Bangladesh. It is located in the Barisal Division. It is bounded by Lakshmipur and Barisal 
+Districts to the north, the Bay of Bengal to the south, by Lakshmipur and Noakhali districts, the (lower) Meghna 
+river and Shahbazpur Channel to the east, and by Patuakhali District and the Tetulia river to the west. About 400 mmcf 
+natural gas has been found at Kachia in Bhola which is being used to run a power station. .
+Rate of education of Bhola district is:- .
+ Total 	 29.47% . #
+
+jhalokati .
+ Jhalokati is a district in South-western Bangladesh. It is a part of the Barisal Division. 
+Jhalokati is bounded by Barisal district to the north and east, Barguna district and the
+ Bishkhali river in the south, Lohagara Upazila and Pirojpur district to the west. Annual
+ average temperatures: maximum 33.3°C, minimum 12.1°C; annual rainfall 2506 mm. Main rivers 
+in this district are Bishkhali, Sugandha, Dhanshiri, Gabkhan, Jangalia and Bamanda, Bajitpur River. .
+Rate of education of Jhalokati district is:- .
+Total 	 51.2% . #
+
+patuakhali .
+ Patuakhali is a district in South-western Bangladesh. It is a part of the Barisal Division.
+This is the main entrance for the beach of Kuakata. Famous for watching both the sun rise and 
+sun set, it is called The Daughter of Sea. .
+Rate of education of Patuakhali district is:- .
+Total 	50.4% . #
+
+pirojpur .
+ Pirojpur is a district (zila) in south-western Bangladesh. It is part of Barisal Division.
+ It is located besides the Boleswor river at 22 30’ 00" N 89 52’ 00" E & 22 52’-00" N 90 13’00" E
+ and bounded by Gopalgonj, Barisal District on the north, Barguna District on the south, Jhalokati 
+District on the east and Bagerhat on the west. It is declared as a district in 1 March 1984. It 
+consists of seven Upazilas, three Pourasavas and fifty one Unions. The area of the town is small 
+but everything is built in a planned way and also very clean. There are different buses to facilitate 
+communication with other district as well as inside the district. Water routes also connect this district
+ with the capital city, Khulna, Barisal etc all through the year. Some of the important rivers in the
+ district are Boleshhwar, Kocha and Sandha. .
+Rate of education of Pirojpur district is:- .
+Total 	 55.8% . #
+
+bandarban .
+ Bandarban is a district in South-Eastern Bangladesh, and a part of the Chittagong Division.
+ It is one of the three districts that make up the Chittagong Hill Tracts, the others being 
+Rangamati District and Khagrachhari District. Bandarban is regarded as one of the most attractive 
+travel destinations in Bangladesh. .
+Rate of education of Bandarban district is:- .
+Total  	43% . #
+
+
+brahmanbaria .
+ Brahmanbaria is a district in east-central Bangladesh. Brahmanbaria district is located at 
+the east-central region of Bangladesh. 
+Brahmanbaria is bounded by Kishoreganj District and Habiganj District on the north, Comilla 
+District on the south, Habiganj District and Tripura State, India on the east and Meghna River, 
+Kishoreganj District, Narsingdi District and Narayanganj District on the west. .
+Rate of education of Brahmanbaria district is:- .
+Total 	 45.14% . #
+
+chandpur .
+ Chandpur is a district of Bangladesh. It is a part of the Chittagong Division.
+It is a very beautiful district of Bangladesh. .
+Rate of education of Chandpur district is:- .
+Total 	 69.29% . #
+
+chittagong .
+   Chittagong district is a district located in the south-eastern region of Bangladesh. 
+It is a part of the Chittagong Division. The port city of Chittagong, second largest city 
+in Bangladesh, is located in this district. It is a very beautiful district of Bangladesh. .
+Rate of education of Chittagong district is:- .
+Total 	 43.2% . #
+
+comilla .
+   Comilla is a district of Bangladesh located about 100 kilometers south east of Dhaka. 
+Comilla is bordered by Brahmanbaria and Narayanganj districts to the north, Noakhali and 
+Feni districts to the south, Tripura of India to the east, and Munshiganj and Chandpur 
+districts to the west. .
+Rate of education of Comilla district is:- .
+Total  	55% . #
+
+cox'sbazar .
+  Cox's Bazar is a district in the Chittagong Division of Bangladesh. It is named after 
+Cox's Bazar, which is one of the world's longest natural sea beaches 
+(120 kilometres (75 mi) including mud flats). It is located 150 kilometres (93 mi) south of 
+Chittagong. Cox's Bazar is also known by the name Panowa ("yellow flower"). Another old name was Palongkee. .
+Rate of education of Cox's Bazar district is:- .
+Total 	 21.9% . #
+
+feni .
+ Feni is a small southeastern district of Bangladesh bordering (clockwise from the north) Tripura in [India], 
+Chittagong District, the Bay of Bengal, Noakhali District and Comilla District. It is a very beautiful district
+of Bangladesh. .
+Rate of education of Feni district is:- .
+Total 	 64.0% . #
+
+khagrachhari .
+   Khagrachhari is a district in south-eastern Bangladesh. It is a part of the Chittagong Division. And the Chittagong 
+Hill Tracts. Its local name is "Chengmi". Khagrachhari is also known as Phalang Htaung or the Mong Circle 
+ and Bandarban is the Bohmong Circle). .
+Rate of education of Khagrachhari district is:- .
+Total 	 26.3% . #
+
+lakshmipur .
+   Lakshmipur or Laxmipur District with an area of 1455.96 km², is a district of Bangladesh. 
+It is bordered by Chandpur District to the north, Bhola and Noakhali districts to the south, 
+Noakhali District to the east, and Barisal and Bhola districts to the west. .
+Rate of education of Lakshmipur district is:- .
+Total 	 62.26% . #
+
+noakhali .
+   Noakhali is a district in South-eastern Bangladesh. It is located in the Chittagong Division. 
+Noakhali district, whose earlier name was Bhulua, was established in 1821. 
+It was named Noakhali in 1868. .
+Rate of education of Noakhali district is:- .
+Total 	 51.3% . #
+
+rangamati .
+Rangamati is a district in South-eastern Bangladesh. It is a part of the Chittagong Division. 
+And the town of Rangamati serves as the headquarters of the district. Area-wise, Rangamati is 
+the largest district of the country. .
+Rate of education of Rangamati district is:- .
+Total 	 36.5% . #
+
+dhaka .
+ Dhaka district is a district located in central Bangladesh. And is the densest district in the nation. 
+It is a part of the Dhaka Division. Dhaka, the capital of Bangladesh, rests on the eastern banks of the 
+Buriganga River which flows from the Turag to the south of the district. .
+Rate of education of Dhaka district is:- .
+Total 	 45.14% . #
+
+faridpur .
+    Faridpur is a district in central Bangladesh. It is a part of the Dhaka Division. Faridpur District has 
+a population of over 1.7 million people and is situated on the banks of the Padma river (Lower Ganges). .
+Rate of education of Faridpur district is:- .
+Total 	 37.44% . #
+
+gazipur .
+    Gazipur District is a district of Dhaka Division in Bangladesh.
+Gazipur has 9 wards and 31 mahallas. The area of the town is 49.32 km2. 
+Various establishments such as Islamic University of Technology, Bangabandhu Sheikh Mujibur Rahman Agricultural University (BSMRAU), 
+Bangladesh Rice Research Institute (BRRI), Bangladesh Agricultural Research Institute (BARI), Dhaka University of Engineering and 
+Technology, and others are located here. .
+Rate of education of Gazipur district is:- .
+Total 	36% . #
+
+gopalganj .
+  Gopalganj is a in the Dhaka division of Bangladesh. The main city of the district is also called Gopalganj.
+The district is the political bastion of the Awami League. Sheikh Mujibur Rahman, the first President of Bangladesh, hailed from the 
+village of Tungipara in the district. Sheikh Mujib's nephew Sheikh Fazlul Haq Mani had also been elected to parliament from Gopalganj-2 constituency.
+Both were brutally assassinated on August 15, 1975. .
+Rate of education of Gopalganjdistrict is:- .
+Total 	 79.4% . #
+
+jamalpur .
+    Jamalpur is a district in Dhaka Division, Bangladesh. The main town is situated on the bank of the river Brahmaputra, 140 km (87 mi) north of Dhaka, 
+the national capital.
+Rate of education of Jamalpur district is:- .
+Total 	 21.5% . #
+
+kishoreganj .
+   Kishorganj is a district in central Bangladesh. It is a part of the Dhaka Division.
+ It is divided into thirteen upazilas. .
+Rate of education of Kishorganj district is:- .
+Total 	 40.3% . #
+
+madaripur .
+   Madaripur being a part of the Dhaka Division, is a district in central Bangladesh. It 
+is a very beautiful district. .
+Rate of education of Madaripur district is:- .
+Total 	 48% . #
+
+manikganj .
+   Manikganj is a district in central Bangladesh. It is a part of the Dhaka Division.
+It is a very beautiful district. .
+Rate of education of Manikganj district is:- .
+Total 	 26.9% . #
+
+munshiganj .
+   Munshiganj also historically known as Bikrampur is a district in central Bangladesh. 
+It is a part of the Dhaka Division and borders Dhaka District. It is a very beautiful district. .
+Rate of education of Munshiganj district is:- .
+Total 	 35.8% . #
+
+mymensingh .
+   Mymensingh is one of the districts of Dhaka division, Bangladesh. And is bordered on the 
+north by Meghalaya state of India and Garo Hills, on the south by Gazipur district, on the 
+east by districts of Netrokona and Kishoreganj, and on the west by districts of Sherpur, Jamalpur and Tangail. 
+Mymensingh town is the district headquarters. .
+Rate of education of Mymensingh district is:- .
+Total 	 25.42% . #
+
+narayanganj .
+    Narayanganj district is a district in central Bangladesh, part of the Dhaka Division. The main city of 
+the district is Narayanganj. It is near the capital city of Dhaka. The river port of Narayanganj is one of the 
+oldest in Bangladesh. It is also a center of business and industry, especially the jute trade and processing plants, 
+and the textile sector of the country. It is nicknamed the Dundee of Bangladesh due to the presence of many jute mills. 
+Dundee was the first industrialised "Juteopolis" in the world. .
+Rate of education of Narayanganj district is:- .
+Total 	 39.84% . #
+
+narsingdi .
+    Narsingdi is a district in central Bangladesh.It is located 50 km north-east of Dhaka, capital city of Bangladesh. 
+It is a part of the Dhaka Division. The district is famous for its textile craft industry. Narsingdi is bordered by 
+Kishoreganj in the north & north-east, by Brahmanbaria in the east & south-east, Narayanganj at south & south-west and by 
+Gazipur in the west. .
+Rate of education of Narsingdi district is:- .
+Total 	55.% . #
+
+netrakona .
+   Netrakona is a district in northern Bangladesh. It is a part of Dhaka Division. It is a very beautiful district in Bangladesh. .
+Rate of education of Netrakona district is:- .
+Total 	 33.24% . #
+
+rajbari .
+   Rajbari is a district in central Bangladesh. It is a part of the Dhaka Division. It was named by the renowned ruler 
+Raja Surjo Kumar Guha Roy. He established his palace or rajbari in this district. . 
+Rate of education of Rajbari district is:- .
+Total 	 39.81% . #
+
+shariatpur .
+    Shariatpur is a district in the Dhaka Division of central Bangladesh. 
+It is named after the eminent Islamic reformer Haji Shariatullah. .
+Rate of education of Shariatpur district is:- .
+Total 	 36.0% . #
+
+sherpur .
+    Sherpur is a district in central Bangladesh. It is a part of the Dhaka Division. 
+Sherpur city is located about 198 km (123.03 mi) north of Dhaka which is the capital of the country. .
+Rate of education of Sherpur district is:- .
+Total 	 32.4% . #
+
+tangail .
+    Tangail is a district in the central region of Bangladesh. It is a part of the Dhaka division. 
+The main town of Tangail District is the district town Tangail. It is surrounded by the several districts, 
+such as Jamalpur district on the north, the Dhaka and Manikganj districts on the south, the Mymensingh and Gazipur 
+districts on the east, and the Sirajganj district on the west. The main rivers that cross the Tangail district are 
+the Jamuna, Dhaleshwari, Jhenai, Bangshi, Louhajang, Langulia, Elongjani, Jugni, Fotikjani and the Turag. .
+Rate of education of Tangail district is:- .
+Total 	 29.6% . #
+
+bagerhat .
+   Bagerhat District is a district in South-western Bangladesh. It is a part of the Khulna Division.
+It is bounded by Gopalganj District and Narail District on the north, The Bay of Bengal on the south, Gopalganj District, Pirojpur District and Barguna District on the east and Khulna District on the west. Main rivers of the district are Panguchi, Daratana, Madhumati River, Pasur River, Haringhata, Mongla River, Baleshwar, Bangra and Goshairkhali. .
+Rate of education of Bagerhat district is:- .
+Total 	 44.3% . #
+
+chuadanga .
+   Chuadanga district or Chuadanga Zilla is the name of a Western district (zilla) of Bangladesh. 
+It is a part of the Khulna administrative division that covers most districts in the south-west of the country. .
+Rate of education of Chuadanga district is:- .
+Total 	 25.2% . #
+
+jessore .
+    Jessore is a district in the southwestern region of Bangladesh. It is bordered by India to the west, Khulna District and Satkhira District to the south, Magura and Narail to the east, and Jhenaidah District to the north. The district produces a variety of crops year-round. .
+Rate of education of Jessore district is:- .
+Total 	 52.5% . #
+
+jhenaidah .
+    Jhenaidah is a district in southwestern Bangladesh. It is bordered by the Kushtia District to the north, to the south by Jessore District and West Bengal (India), to the east by Rajbari District and Magura District and to the west by Chuadanga District and West Bengal (India) on the west. .
+Rate of education of Jhenaidah district is:- .
+Total 	 62.00% . #
+
+
+khulna .
+   Khulna district is a district of Bangladesh. It is located in the Khulna Division. It is bordered on the north by the Jessore District and the Narail District, on the south by the Bay of Bengal, on the east by the Bagerhat District, and on the west by the Satkhira District. .
+Rate of education of Khulna district is:- .
+Total 	 57.81% . #
+
+kushtia .
+      Kushtia is a district in southwestern Bangladesh. It is bordered by the Jhenaidah District to the north, to the south by Jessore District and West Bengal (India), to the east by Rajbari District and Magura District and to the west by Chuadanga District and West Bengal (India) on the west. .
+Rate of education of Kushtia district is:- .
+Total 	 90.9% . #
+
+magura .
+    Magura is a district in South-Western Bangladesh. It is a part of the Khulna Division. Magura is far from Dhaka by 176 kilometers. The main Transport is bus. From Magura to Dhaka it takes five hours by bus. There is no train transport in Magura. .
+Rate of education of Magura district is:- .
+Total 	 31.04% . #
+
+meherpur .
+   Meherpur is a district in South-western Bangladesh. It is bounded by Kushtia District and West Bengal of India on the north, Chuadanga District and West Bengal on the south, Chuadanga and Kushtia districts on the east, and West Bengal on the west. .
+Rate of education of Meherpur district is:- .
+Total 	 34.5% . #
+
+
+narail .
+    Narail is a district in south-western Bangladesh. It is a part of Khulna Division. It is a very beautiful district. .
+Rate of education of Narail district is:- .
+Total 	61.3% . #
+
+
+satkhira .
+  Satkhira is a district in south-western Bangladesh and is part of Khulna Division. It lies along the border with West Bengal, India. It is situated on the bank of the Arpangachhia River. .
+Rate of education of Satkhira district is:- .
+Total 	 30.40% . #
+
+bogra .
+  Bogra is a northern district of Bangladesh, in the Rajshahi Division.
+ It is called the gateway to North Bengal. It is an industrial city in where many small and mid-sized industries are 
+housed. Bogra district was a part of the ancient Pundravardhana territory and the ruins of 
+Mahasthangarh, the ancient capital of Pundravardhana are located north of Bogra. .
+Rate of education of Bogra district is:- .
+Total 	 28.4% . #
+
+joypurhat .
+  Joypurhat is a district in the northern part of Bangladesh. It is part of Rajshahi Division. 
+It is very beautiful district. .
+Rate of education of Joypurhat district is:- .
+Total 	64% . #
+
+naogaon .
+   Naogaon is a district in Northern Bangladesh. It is a part of the Rajshahi Division. 
+It is a very beautiful district. .
+Rate of education of Naogaon district is:- .
+Total 	 28.4% . #
+
+natore .
+  Natore is a district of Rajshahi Division located in northern Bangladesh. It borders the metropolitan city of Rajshahi, and used to be part of Rajshahi district. .
+Rate of education of Natore district is:- .
+Total 	 27.0% . #
+
+
+
+chapainawabganj .
+ Chapainawabganj is located on the north-western part of Bangladesh. It is a part of the Rajshahi Division. 
+Originally, it was a sub-division of Malda district. In 1947, it was severed from Malda and was given to East 
+Pakistan as a sub-division of Rajshahi district. It became a separate district of Bangladesh in 1984. .
+Rate of education of Chapainawabganj district is:- .
+Total 	 55.09% . #
+
+
+pabna .
+Pabna District is a district in north-western Bangladesh. It is the southern most district of Rajshahi Division.
+ Its administrative capital is eponymous Pabna town. .
+Rate of education of Pabna district is:- .
+Total 	 38.47% . #
+
+rajshahi .
+   Rajshahi District is a district in north-western Bangladesh. It is a part of the Rajshahi Division.
+ The metropolitan city of Rajshahi is in Rajshahi District. .
+Rate of education of Rajshahi district is:- .
+Total 	 30.61% . #
+
+sirajganj .
+   Sirajganj is a district in Northern Bangladesh. 
+It is a part of the Rajshahi Division. .
+Rate of education of Sirajganj district is:- .
+Total 	 87% . #
+
+dinajpur .
+ Dinajpur is a district in Northern Rangpur, Bangladesh. It is part of the Rangpur Division. .
+Rate of education of Dinajpur district is:- .
+Total 	 27.4% . #
+
+gaibandha .
+    Gaibandha is a district in Northern Bangladesh. It is a part of the Rangpur Division. Gaibandha was established in 1875. .
+Rate of education of Gaibandha district is:- .
+Total 	35.7% . #
+
+kurigram .
+   Kurigram is a district in Northern Bangladesh. It is located in the Rangpur Division. .
+Rate of education of Kurigram district is:- .
+Total 	22.3% . #
+
+lalmonirhat .
+  Lalmonirhat is a district, situated at the north side border of Bangladesh. It is a part of the Rangpur Division. .
+Rate of education of Lalmonirhat district is:- .
+Total  	66.6% . #
+
+nilphamari .
+   Nilphamari is a district in Northern Bangladesh. It is a part of the Rangpur Division. It is 400 km from the capital Dhaka in north and west side. .
+Rate of education of Nilphamari district is:- .
+Total 	 25.35% . #
+
+panchagarh .
+   Panchagarh is a district of Rangpur division in the extreme northern part of Bangladesh with an area of 1404.62 square km, 
+is bounded on three sides by 288 km long Indian border, having Darjeeling district on the north, Jalpaiguri and Cooch Behar 
+Districts on the northeast, West Dinajpur District and Purnea district on the west. .
+Rate of education of Nilphamari district is:- .
+Total  	30.6% . #
+
+rangpur .
+  Rangpur is a district in Northern Bangladesh. It is a part of the Rangpur Division. .
+Rate of education of Rangpur district is:- .
+Total 	 32.64% . #
+
+thakurgaon .
+Thakurgaon is a district in the north-western side of Bangladesh. It is a part of the Rangpur Division and borders India to the west. .
+Rate of education of Thakurgaon district is:- .
+Total 	 77.3% . #
+
+habiganj .
+   Habiganj  formerly Habibganj, was named after its founder, Syed Habib Ullah of Taraf fiefdom, is a district in the north-eastern part of Bangladesh. .
+Rate of education of Habiganj district is:- .
+Total 	 48.5% . #
+
+moulvibazar .
+   Moulvibazar is also called Maulvibazar. Moulavibazar is a district of Sylhet Division in North-Eastern Bangladesh. .
+Rate of education of Moulvibazar district is:- .
+Total 	 43.7% . #
+
+sunamganj .
+  Sunamganj is a district located in north-eastern Bangladesh within the Sylhet Division. .
+Rate of education of Sunamganj district is:- .
+Total 	39.23% . #
+
+sylhet .
+    Sylhet is  located in north-east Bangladesh, is one of the four districts in the Sylhet Division. .
+Rate of education of Sylhet district is:- .
+Total 	 66% . #
